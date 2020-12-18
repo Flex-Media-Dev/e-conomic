@@ -1,0 +1,1 @@
+﻿Due to the nature of this project, being very web specific, we've decided that it's OK for this project to keep the reference to System.Web.
